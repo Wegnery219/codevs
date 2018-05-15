@@ -10,4 +10,7 @@ int main(){
 	cin>>x;
 	a(x);
 	cout<<x;
+	int t;
+	t=2147484647;
+	cout<<t;
 }
